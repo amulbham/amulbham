@@ -1,6 +1,6 @@
 # Amul Bham
 
-I'm an independent researcher interested in how AI systems reason, remember, and work with people. Much of my work explores a related question: as these systems become more capable, how do we make their behavior more reliable, their decisions easier to examine, and their work easier to carry forward?
+I'm a systems researcher interested in how AI systems reason, remember, and work with people. Much of my work explores a related question: as these systems become more capable, how do we make their behavior more reliable, their decisions easier to examine, and their work easier to carry forward?
 
 I approach these questions through a mix of research, writing, and building. My background is in enterprise digital systems, where I spent more than a decade working on problems involving search, technology, and large-scale operations. More recently, I've been applying that experience to AI.
 
